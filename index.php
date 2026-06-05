@@ -56,7 +56,8 @@ include "includes/header.php";
 
     <article class="card">
     <?php include "includes/formcontacte.php"; ?>
-    </article></section>
+    </article>
+</section>
 </div>
 
 <?php include "includes/footer.php"; ?>
