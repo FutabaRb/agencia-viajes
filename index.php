@@ -1,7 +1,7 @@
 <?php
 
 $titol = "Agència de Viatges";
-
+$logo = "assets/img/logo.png";
 include "includes/header.php";
 
 ?>

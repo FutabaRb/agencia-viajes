@@ -2,6 +2,7 @@
 
 $titol = "Contacte";
 $ruta = "../assets/css/style.css";
+$logo = "../assets/img/logo.png";
 $vista1 = "../index.php";
 $vista2 = "destinacions.php";
 $vista3 = "contacte.php";

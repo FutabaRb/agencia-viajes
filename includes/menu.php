@@ -1,4 +1,5 @@
 <nav>
+        <img src=<?= $logo ?? "../assets/img/logo.png"; ?> alt="logo agencia de viajes">
 
     <ul>
 
